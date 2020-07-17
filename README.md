@@ -4,6 +4,9 @@ Dummy project
 
 # changelog
 
+## 1.0.2
+* changed app.js
+
 ## 1.0.1
 * added app.js
 
