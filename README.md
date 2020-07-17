@@ -1,3 +1,11 @@
 # merge-test-1
 
-Initial version of the app 1.0.0
+Dummy project
+
+# changelog
+
+## 1.0.1
+* added app.js
+
+## 1.0.0
+* initial version
